@@ -1,0 +1,6 @@
+http://localhost:15672/
+
+userName : guest
+
+password : guest
+
